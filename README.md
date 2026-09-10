@@ -9,9 +9,9 @@ Electronics and Communication Engineer focused on **autonomous robotics, compute
 ## 🤖 Featured Projects
 
 ### BlueROV2 LED-Based Visual Tracking
-Computer vision pipeline for underwater robot following using temporal LED patterns, geometric detection, and distance estimation.
+Computer vision pipeline for underwater robot following using temporal LED patterns, geometric detection, and distance estimation. Includes mission trajectory analysis, performance metrics, and interactive 3D replay.
 
-**Python · OpenCV · Computer Vision · Visual Tracking · Unity**
+**Python · OpenCV · Computer Vision · Visual Tracking · Unity · Plotly**
 
 [View project →](https://github.com/eranaydogan/bluerov2-led-tracking-opencv)
 
@@ -29,13 +29,20 @@ Autonomous area scanning and target-approach tools with Pure Pursuit navigation 
 
 [View project →](https://github.com/eranaydogan/bluerov2-leader-autonomous-control)
 
+### BlueROV2 Android Remote Controller
+Android-based robotics controller with low-latency UDP video streaming, touch-based motion control, haptic feedback, emergency signaling, and Unity/Unreal simulation integration.
+
+**Kotlin · Android · UDP · LibVLC · Unity · Unreal Engine · Human–Robot Interaction**
+
+[View project →](https://github.com/eranaydogan/bluerov2-android-controller)
+
 ## 🛠 Technical Focus
 
-**Programming:** Python · C++ · C · SQL · MATLAB  
+**Programming:** Python · C++ · C · SQL · MATLAB · Kotlin  
 **Robotics:** ROS 2 · Gazebo · ArduPilot / ArduSub · MAVLink  
 **Computer Vision:** OpenCV · Visual Tracking · Image Processing  
-**Simulation:** Unreal Engine · Gazebo  
-**Systems:** Linux · UDP/TCP Networking
+**Simulation:** Unity · Unreal Engine · Gazebo  
+**Systems:** Linux · UDP/TCP Networking · Git
 
 ## 🔍 Interests
 
