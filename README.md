@@ -20,6 +20,10 @@ Implements LED-based target detection, geometric tracking, relative distance est
 
 [View project & demo →](https://github.com/eranaydogan/bluerov2-led-tracking-opencv)
 
+**3D Mission Replay**
+
+[![BlueROV2 3D Mission Replay](https://raw.githubusercontent.com/eranaydogan/bluerov2-led-tracking-opencv/main/docs/media/mission_replay_3d.gif)](https://github.com/eranaydogan/bluerov2-led-tracking-opencv)
+
 ### 2. robotsim — C++ Robot Navigation & Reinforcement Learning
 
 A C++17 mobile robot simulation environment with differential-drive dynamics, simulated LiDAR, collision detection, and a Gymnasium-compatible Python interface.
